@@ -2,6 +2,8 @@
 
 A sophisticated DeFi yield optimization platform powered by autonomous AI agents, leveraging OpenServ, GOAT SDK, and Gemini AI for intelligent yield strategies and on-chain execution.
 
+![Screenshot (1071)](https://github.com/user-attachments/assets/2ff5bc3f-196e-4e81-ae25-723e783ac7a7)
+
 ## Overview
 
 The Smart Yield Optimizer AI Agent is an advanced DeFi platform that combines multiple AI agents to provide optimal yield strategies across various protocols and chains. It features:
