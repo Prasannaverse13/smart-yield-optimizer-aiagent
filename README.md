@@ -107,11 +107,6 @@ VITE_GEMINI_API_KEY=your_gemini_key
 npm run dev
 ```
 
-## Deployment
-
-The application is deployed and accessible at:
-https://smart-yield-optimizer-aiagent.netlify.app/
-
 ## Technology Stack
 
 ### Frontend
@@ -154,11 +149,3 @@ https://smart-yield-optimizer-aiagent.netlify.app/
 - Transaction history tracking
 - Network status monitoring
 - Security alerts
-
-## License
-
-MIT License
-
-## Contributing
-
-Contributions are welcome! Please read our contributing guidelines for details on our code of conduct and the process for submitting pull requests.
